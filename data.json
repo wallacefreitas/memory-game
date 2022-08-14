@@ -1,0 +1,22 @@
+{
+  "cards": [
+    { "id": "", "type": "mushroom", "icon": "./assets/images/mushroom.webp" },
+    { "id": "", "type": "mushroom", "icon": "./assets/images/mushroom.webp" },
+    { "id": "", "type": "fire-flower", "icon": "./assets/images/fire-flower.webp" },
+    { "id": "", "type": "fire-flower", "icon": "./assets/images/fire-flower.webp" },
+    { "id": "", "type": "mushroom-up", "icon": "./assets/images/mushroom-up.webp" },
+    { "id": "", "type": "mushroom-up", "icon": "./assets/images/mushroom-up.webp" },
+    { "id": "", "type": "star", "icon": "./assets/images/star.webp" },
+    { "id": "", "type": "star", "icon": "./assets/images/star.webp" },
+    { "id": "", "type": "leaf", "icon": "./assets/images/leaf.webp" },
+    { "id": "", "type": "leaf", "icon": "./assets/images/leaf.webp" },
+    { "id": "", "type": "moon", "icon": "./assets/images/moon.webp" },
+    { "id": "", "type": "moon", "icon": "./assets/images/moon.webp" },
+    { "id": "", "type": "shell", "icon": "./assets/images/shell.webp" },
+    { "id": "", "type": "shell", "icon": "./assets/images/shell.webp" },
+    { "id": "", "type": "frog", "icon": "./assets/images/frog.webp" },
+    { "id": "", "type": "frog", "icon": "./assets/images/frog.webp" },
+    { "id": "", "type": "boot-green", "icon": "./assets/images/boot-green.webp" },
+    { "id": "", "type": "boot-green", "icon": "./assets/images/boot-green.webp" }
+  ]
+}
