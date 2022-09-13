@@ -1,7 +1,11 @@
 <h1 align="left">
-    <a href="https://pt-br.reactjs.org/">🔗 Memory Game</a>
+    <a href="https://pt-br.reactjs.org/">🔗 Memory Game</a> 
 </h1>
-<p align="left">🚀 Web apllication (memory game) developed using React JS (Vite) + TypeScript + TailwindCSS technologies.</p>
+
+<img src="https://img.shields.io/badge/license-MIT-green">
+
+<p align="left" style="margin-top:5px">🚀 Web apllication (memory game) developed using React JS (Vite) + TypeScript + TailwindCSS technologies.</p> 
+
 
 Running
 =================
