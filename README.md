@@ -48,6 +48,6 @@ The following tools were used in building the project:
 
 ## 📝 License
 
-This project is under license [MIT](./LICENSE.md).
+This project is under license [MIT](LICENSE.md).
 
 Made by Wallace de Freitas 👋🏽
