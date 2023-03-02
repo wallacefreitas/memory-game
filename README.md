@@ -1,5 +1,5 @@
 <h1 align="left">
-    <a href="https://pt-br.reactjs.org/">Memory Game</a> 
+    Memory Game
 </h1>
 
 <img src="https://img.shields.io/badge/license-MIT-green">
