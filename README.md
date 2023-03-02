@@ -2,13 +2,10 @@
     Memory Game
 </h1>
 
+<p align="left" style="margin-top:5px">🚀 Web apllication (memory game) developed using React JS (Vite) + TypeScript + TailwindCSS technologies.</p> 
 <img src="https://img.shields.io/badge/license-MIT-green">
 
-<p align="left" style="margin-top:5px">🚀 Web apllication (memory game) developed using React JS (Vite) + TypeScript + TailwindCSS technologies.</p> 
-
-
-Running
-=================
+## Running
 
 #### 🧭 Running in a browser (Frontend)
 
